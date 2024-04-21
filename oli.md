@@ -1,1 +1,2 @@
-oli text 
+# Theory of Online Literacy Instruction #
+[About Me](https://veekenne.github.io/gsole/about.md) | [Theory of Online Literacy Instruction](https://veekenne.github.io/gsole/oli.md) | [Curriculum Vitae](https://veekenne.github.io/gsole/cv.md)
