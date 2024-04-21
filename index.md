@@ -1,4 +1,6 @@
 # Welcome to my ePortfolio #
+[About Me](https://veekenne.github.io/gsole/about.html) | [Theory of Online Literacy Instruction](https://veekenne.github.io/oli.html) 
+
 Hi! I'm Vee Kennedy (they/them/theirs) and I'm a Visiting Instructor in the Department of Rhetoric and Writing at the University of Central Florida. I'm also a student in the [Texts and Technology PhD Program](https://cah.ucf.edu/textstech/){:target="_blank"} at UCF.
 
 Here's a very brief list of examples of creations I'm most proud of from my time in the [Global Society for Online Literacy Educators](https://gsole.org/) Certification Program.<br> 
