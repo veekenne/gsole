@@ -1,9 +1,9 @@
-# Howdy Stranger #
+# Welcome to my ePortfolio #
 Hi! I'm Vee Kennedy (they/them/theirs) and I'm a Visiting Instructor in the Department of Rhetoric and Writing at the University of Central Florida. I'm also a student in the [Texts and Technology PhD Program](https://cah.ucf.edu/textstech/){:target="_blank"} at UCF.
 
-Here's a very brief list of examples of creations I'm most proud of from Critical Making, and an ugly first draft of what I hope I get to continue to flesh out next week in that optional extra making.  <br> 
+Here's a very brief list of examples of creations I'm most proud of from my time in the [Global Society for Online Literacy Educators](https://gsole.org/) Certification Program.<br> 
 
-### Experiments ###
+### Artifacts ###
 
 [Selfie Cake](/selfiecake.jpeg)<br>
 [Comic](/comic.jpg)<br>
